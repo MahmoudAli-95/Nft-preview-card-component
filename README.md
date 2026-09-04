@@ -26,4 +26,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/nft-preview-card.git](https://github.com/your-username/nft-preview-card.git)
+   git clone [https://github.com/MahmoudAli-95/nft-preview-card.git](https://github.com/MahmoudAli-95/nft-preview-card.git)
